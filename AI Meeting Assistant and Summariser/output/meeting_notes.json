@@ -1,0 +1,76 @@
+{
+  "summary": "The speaker reflects on their past struggles and feelings of being broken, but finds solace and inspiration in their music and the support of others.",
+  "minutes": [
+    {
+      "topic": "The speaker's past struggles",
+      "points": [
+        "I was broken from a young age",
+        "They look at me, took to me, shook of me",
+        "Feeling me singing from heartache, from the pain",
+        "Checking my message, from the veins",
+        "Speaking my lesson, from the brain",
+        "Seeing the beauty through the",
+        "I let the bullets fly, I let them rain My life, my love, my car, they came from"
+      ]
+    },
+    {
+      "topic": "The power of music",
+      "points": [
+        "Hey! You've made me a, you've made me a believer",
+        "Believer Believer",
+        "Hey! You've made me a, you've made me a believer",
+        "Believer Hey! You've made me a, you've made me a believer",
+        "I let the bullets fly, I let them rain My life, my love, my car, they came from"
+      ]
+    },
+    {
+      "topic": "The speaker's emotions",
+      "points": [
+        "I was choking in the crowd",
+        "Building my reign up in the crowd",
+        "Falling like ashes to the ground",
+        "Hoping my feelings, they would drown",
+        "But they never did ever live",
+        "Deppin' and flowin' inhibited, livid and jelly broke",
+        "Openin' rain down, it rained down"
+      ]
+    },
+    {
+      "topic": "The speaker's message",
+      "points": [
+        "Last things last by the grace of the fire and the flames",
+        "You're the face of the future, the blood in my veins",
+        "Oh, ooh The blood in my veins Oh, ooh"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "decision": "None",
+      "quote": "",
+      "verified_in_transcript": false
+    }
+  ],
+  "action_items": [
+    {
+      "task": "None",
+      "owner": "unspecified",
+      "deadline": "unspecified",
+      "quote": "",
+      "verified_in_transcript": false
+    }
+  ],
+  "meta": {
+    "speech_to_text_model": "openai-whisper:small",
+    "refinement_model": "llama3.2:3b",
+    "documentation_model": "llama3.2:3b",
+    "domain_hints": "Artificial Intelligence",
+    "generated_at": "2026-10-07T12:17:49+00:00",
+    "timings": {
+      "transcription_s": 40.0,
+      "refinement_s": 21.5,
+      "documentation_s": 21.9
+    },
+    "warnings": []
+  }
+}
