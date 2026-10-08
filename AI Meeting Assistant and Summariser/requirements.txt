@@ -1,0 +1,6 @@
+# AI Meeting Assistant - Python dependencies (versions unpinned).
+# After a successful install run `pip freeze > requirements.lock.txt` to record exact versions.
+# System requirements (not pip): ffmpeg, and the Ollama application.
+gradio
+openai-whisper
+ollama
